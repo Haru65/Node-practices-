@@ -1,0 +1,20 @@
+{
+  "name": "version1",
+  "version": "1.0.0",
+  "description": "nednckd",
+  "main": "filejs.js",
+  "scripts": {
+    "test": "start",
+    "strtt": "node filejs.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "daemon": "^1.1.0",
+    "express": "^4.21.1",
+    "mongoose": "^8.9.5",
+    "nodemon": "^3.1.9",
+    "request-ip": "^3.3.0",
+    "url": "^0.11.4"
+  }
+}
