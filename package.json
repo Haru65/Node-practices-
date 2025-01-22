@@ -5,7 +5,8 @@
   "main": "filejs.js",
   "scripts": {
     "test": "start",
-    "strtt": "node filejs.js"
+    "strtt": "node filejs.js",
+    "start": "nodemon ./MVC/index.js"
   },
   "author": "",
   "license": "ISC",
